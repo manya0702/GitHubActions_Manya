@@ -1,6 +1,7 @@
+package com.example;
+
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import com.example.Rectangle; // Import the Rectangle class
 
 public class RectangleTest {
 
